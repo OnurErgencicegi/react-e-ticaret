@@ -1,0 +1,23 @@
+*{
+  text-decoration: none;
+  
+}
+.navbar{
+  width: 100vw;
+  background-color: black;
+  height:60px ;
+}
+.links{
+  
+  text-decoration: none;
+  font-size: 40px;
+  color: white;
+  
+}
+.logo{
+  height: 40px;
+}
+
+.link{
+  margin-left: 510px;
+}
